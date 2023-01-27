@@ -1,0 +1,4 @@
+node_modules/
+.nbb/
+.clj-kondo/
+.lsp/
